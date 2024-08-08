@@ -1,0 +1,16 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+#co{
+  background-color: black;
+}
+
+.navbar a {
+  color: white;
+}
+
+.active {
+  color: green
+}
